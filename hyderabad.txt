@@ -1,6 +1,12 @@
 Hyderabad
 hello Hyderabad
+<<<<<<< HEAD
 Telangana
 hii am sydulu
 
 today is June 2
+=======
+telangana
+today is June 2
+I m sydulu
+>>>>>>> master
